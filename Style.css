@@ -1,0 +1,28 @@
+.bodydiv { 
+    margin-left: 30%;
+    width: 40%;
+    margin-right: 30%;
+    background-color: rgba(62, 179, 70, 0.511);
+    height: 300px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    
+}
+.center {
+    align-items: center;
+}
+button {
+    background-color: rgb(197, 195, 197);
+    border-radius: 40px;
+    border-width: 4px;
+    width: 55px;
+    height: 55px;
+    
+}
+#headers {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 12px;
+    width: 80%;
+}
